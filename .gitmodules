@@ -1,0 +1,3 @@
+[submodule "common-lib-jwt"]
+	path = common-lib-jwt
+	url = git@github.com:hussainshahzad250/common-lib-jwt.git
